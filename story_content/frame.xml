@@ -1410,6 +1410,7 @@
       <string id="three_image_of">of</string>
       <string id="three_image_item">item</string>
       <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
       <string id="three_image_progress_video">progress</string>
       <string id="three_image_video">video</string>
       <string id="three_image_video_volume">video volume</string>
@@ -1525,6 +1526,7 @@
             <slidelink slideid="_player.6mu12rTDtde.5coUQmnWakZ" displaytext="How will this data be used?" expand="false" type="slide" />
             <slidelink slideid="_player.6mu12rTDtde.68hTMo2INHb" displaytext="Division" expand="false" type="slide" />
             <slidelink slideid="_player.6mu12rTDtde.5imTUCdKCVy" displaytext="Enrolment" expand="false" type="slide" />
+            <slidelink slideid="_player.6mu12rTDtde.68K8FiGTfUl" displaytext="Availability during COVID-19 Response" expand="false" type="slide" />
             <slidelink slideid="_player.6mu12rTDtde.67B76KAQ3Hi" displaytext="Pandemic Response" expand="false" type="slide" />
             <slidelink slideid="_player.6mu12rTDtde.6l32wqmypCL" displaytext="Province or Territory" expand="false" type="slide" />
             <slidelink slideid="_player.6mu12rTDtde.5qP1X2pq6yB" displaytext="Cumulative Experience" expand="false" type="slide" />
